@@ -1,10 +1,10 @@
 {
-    "firstName":"Logan",
-    "lastName":"Fitzgibbons",
-    "age":21,
-    "picture": "https://pbs.twimg.com/profile_images/425447212626083840/DqyqYfax.jpeg",
+    "firstName":"Jiayu",
+    "lastName":"Shao",
+    "age":17,
+    "picture": "http://s3.gatheringmagic.com/uploads/2014/12/23/AT_1.jpg",
     "nickNames": [
-        {"nick": "Fitz"},
-        {"nick": "Big Money"}
+        {"nick": "Frank"},
+        {"nick": "Karazan"}
     ]
 }
